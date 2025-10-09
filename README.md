@@ -1,9 +1,6 @@
 # 💫 About Me:
 
-Developer, system thinker, and relentless optimizer.
-I design and build performant, type-safe, and scalable applications with a deep love for clean architecture, automation, and thoughtful user experience.
-Exploring the intersection of front-end engineering, AI, and human-centered design — where logic meets aesthetics.
-Constantly improving build pipelines, eliminating legacy patterns, and chasing the elegance in complexity.
+Focused on learning, building, and improving a little every day. I like real problems, and a good cup of tea.
 
 ## 🔭 Currently Working On:
 
